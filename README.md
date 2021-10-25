@@ -1,2 +1,2 @@
-Salut, je suis @achmess2021 , je suis chercheur en intelligence artificielle , je travail sur des projet de deep learning patrticulièrement reconnaissance automatique de la parole et traitement du language naturel TALN
-je m'intéresse aussi au projet de web sémantique et à la possibilité d'itulisation des ontologies et du big data dans la compréhension de la parole Vous pouvez cliquer sur le lien Aperçu pour consulter vos modifications. --->
+Salut, je suis Messaoud.A , je suis chercheur en intelligence artificielle , je travail sur des projets de deep learning, patrticulièrement la reconnaissance automatique de la parole et traitement du language naturel TALN.
+Je m'intéresse aussi au projets de web sémantique et à la possibilité d'itulisation des ontologies et du big data dans la compréhension de la parole. Vous pouvez cliquer sur le lien Aperçu pour consulter vos modifications. --->
